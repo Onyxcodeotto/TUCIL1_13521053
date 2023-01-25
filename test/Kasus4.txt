@@ -1,0 +1,5 @@
+24 Game
+Kartu: A A A A
+Execution time 0.01
+
+Tidak ada solusi!
